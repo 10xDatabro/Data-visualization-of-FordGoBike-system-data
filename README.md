@@ -12,7 +12,11 @@ In conclusion, I will say most users are males and they tend to ride for short d
 Outside of the main variable of interest, I observed the relationship between member age, trip distance and day of the week. As I expected, the older the member the lesser the distance they covered and this was evident in the exploration as I found that members aged 18 - 50 years old convered more distance than members aged above 50 years old. I also found that the age distribution of members who booked trips on Saturday and Sunday are similar and younger compared to other days.
 
 ## Key Insights for Presentation
-You can see content on nbviewer: Jupyter Notebook , Jupyter Slides presentation
+For the presentation, the focus will be on the trip duration and its relationship with other variables - days of the week, member age and, user type - that leads to insights that allows us to understand the data. I will start with introducing the univariate distribution of the main variable of interest: duration. Then I'll go on to show bivariate visualizations depicting how the other variables of interest relate with the main variable of interest. Finally I'll depict multivariate visualizations to show how the combination of user type and days of the week can effect trip duration. At the end of the presentation, we should be able to determine factors that can have the most effect on trip duration with just knowing certain details about any typical user.
+
+You can see content on nbviewer:  
+- Explanatory analysis: [Slide presentation](https://nbviewer.org/github/10xDatabro/FordGoBike-data-visualization/blob/main/HTML/FordGoBike_deck.slides.html#/2) , [Jupyter Notebook](https://nbviewer.org/github/10xDatabro/FordGoBike-data-visualization/blob/main/FordGoBike_deck.ipynb)
+- Exploratory analysis: [Jupyter Notebook](https://nbviewer.org/github/10xDatabro/FordGoBike-data-visualization/blob/main/FordGobike_EDA.ipynb)
 
 OR download the HTML files in the subdirectory and view the content offline at anytime in the browser of your local machine.
 
@@ -53,7 +57,7 @@ pip install -r requirements.txt
 - Gilbert Adikankwu
 
 ## License
-This project is licensed under the MIT License - see the LICENSE for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/10xDatabro/FordGoBike-data-visualization/blob/main/LICENSE) for more details.
 
 ## Acknowledgments
 - Udacity ALX-T Data Analyst Nanodegree
