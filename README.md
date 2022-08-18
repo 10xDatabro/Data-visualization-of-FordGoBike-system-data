@@ -15,7 +15,7 @@ Outside of the main variable of interest, I observed the relationship between me
 For the presentation, the focus will be on the trip duration and its relationship with other variables - days of the week, member age and, user type - that leads to insights that allows us to understand the data. I will start with introducing the univariate distribution of the main variable of interest: duration. Then I'll go on to show bivariate visualizations depicting how the other variables of interest relate with the main variable of interest. Finally I'll depict multivariate visualizations to show how the combination of user type and days of the week can effect trip duration. At the end of the presentation, we should be able to determine factors that can have the most effect on trip duration with just knowing certain details about any typical user.
 
 You can see content on nbviewer:  
-- Explanatory analysis: [Slide presentation](https://nbviewer.org/github/10xDatabro/FordGoBike-data-visualization/blob/main/HTML/FordGoBike_deck.slides.html#/2) , [Jupyter Notebook](https://nbviewer.org/github/10xDatabro/FordGoBike-data-visualization/blob/main/FordGoBike_deck.ipynb)
+- Explanatory analysis: [Slide presentation](https://nbviewer.org/github/10xDatabro/FordGoBike-data-visualization/blob/main/HTML/FordGoBike_deck.slides.html#/) , [Jupyter Notebook](https://nbviewer.org/github/10xDatabro/FordGoBike-data-visualization/blob/main/FordGoBike_deck.ipynb)
 - Exploratory analysis: [Jupyter Notebook](https://nbviewer.org/github/10xDatabro/FordGoBike-data-visualization/blob/main/FordGobike_EDA.ipynb)
 
 OR download the HTML files in the subdirectory and view the content offline at anytime in the browser of your local machine.
