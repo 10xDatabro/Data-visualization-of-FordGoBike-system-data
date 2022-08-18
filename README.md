@@ -1,4 +1,4 @@
-# Exploratory and explanatory visualization of FordGoBike System data.
+# Exploratory and explanatory data visualization of FordGoBike System data.
 ## Introduction
 Ford GoBike is the Bay Area's bikeshare system, which aims to be fast, convenient way to get around whether you're commuting, running errands, or just sightseeing. In this analysis, I aim to perform Univariate, Bivariate and Multivariate exploration with this data that includes trip duration information about individual rides made by users of the Ford GoBike bike-sharing system covering the greater San Francisco Bay area in February 2019.
 
